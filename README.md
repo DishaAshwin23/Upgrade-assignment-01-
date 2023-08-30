@@ -19,7 +19,7 @@ Project Structure:
 
 src/main/java/com/sample/WordLengthCalculator.java: Java class for word length calculation.
 pom.xml: Maven configuration file containing project details and dependencies.
-README.md: This file, providing essential project information.
+README.md: This file, provides essential project information.
 Contributions:
 
 Contributions are warmly welcomed! If you wish to enhance the project, fix issues, or introduce new features, feel free to engage by opening issues and pull requests.
